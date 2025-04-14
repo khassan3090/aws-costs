@@ -14,7 +14,7 @@ These scripts pull cost and usage data from AWS using Boto3, organize it, and ex
 
 - Python 3.8+
 - AWS CLI configured with proper profiles
-- Required Python libraries (install with `pip install -r requirements.txt`):
+- Required Python libraries (install with `pip`):
 
 ```bash
 boto3
